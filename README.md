@@ -19,7 +19,7 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 
 Workshop is in-person only, there will be no virtual attendance option.
 
-## Agenda
+## Tentative Agenda
 
 ### Morning Session
 9:00 - 9:30 AM: Welcome and Opening Remarks
