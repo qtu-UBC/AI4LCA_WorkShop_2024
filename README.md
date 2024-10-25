@@ -16,6 +16,7 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 ## Date and Location
 **Date:** December 14, 2024  
 **Location:** University of British Columbia, Vancouver, Canada
+
 Workshop is in-person only, there will be no virtual attendance option.
 
 ## Agenda
