@@ -6,10 +6,16 @@ Life cycle assessment (LCA) is a crucial tool for understanding and mitigating t
 The AI4LCA Workshop 2024 aims to harness the power of artificial intelligence (AI) to streamline and enhance the LCA process. By bringing together leading experts in AI and LCA, this event will explore how cutting-edge AI techniques can be leveraged to address the grand challenges faced by LCA researchers and practitioners.
 
 The workshop's key objectives are to:
-- Identify the fastest pathways to decarbonization and how AI can simplify the LCA process to accelerate sustainable transformation.
-- Discuss the critical scaling challenges in LCA (e.g., data availability, interoperability) and outline concrete strategies for using AI to overcome these barriers.
-- Establish a shared understanding of LCA ground truth, performance metrics, and "good enough" standards to drive the adoption of AI-powered LCA solutions.
-- Foster collaboration and coordination on data exchange, benchmark datasets, and innovation-driving competitions in the AI-for-LCA domain.
+
+- Identify the fastest pathways to decarbonization and how AI can simplify LCA to accelerate sustainable transformation.
+
+- Discuss critical scaling challenges in LCA (e.g., data availability, interoperability).
+
+- Establish a shared understanding of LCA ground truth, performance metrics, and "good enough" standards.
+
+- Foster collaboration on data exchange, benchmark datasets, and innovation-driving competitions.
+
+- Coverage across diverse industry domains and best practices for cross-sector implementation.
 
 By facilitating meaningful dialogue and showcasing the latest advancements, the AI4LCA Workshop 2024 aspires to catalyze the widespread integration of AI into the LCA workflow, ultimately empowering organizations and policymakers to make more informed, data-driven decisions that accelerate the transition to a sustainable future.
 
