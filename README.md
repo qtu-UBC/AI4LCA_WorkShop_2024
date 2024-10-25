@@ -1,7 +1,17 @@
 # AI4LCA Workshop 2024: Accelerating Sustainability Through AI-Powered Life Cycle Assessment
 
 ## Overview
-The AI4LCA Workshop 2024 aims to bring together leading experts in artificial intelligence (AI) and life cycle assessment (LCA) to explore the latest advancements in applying AI techniques to enhance and streamline the LCA process. This one-day event will focus on how AI can help address the grand challenges faced by LCA researchers and practitioners in scaling sustainable solutions.
+Life cycle assessment (LCA) is a crucial tool for understanding and mitigating the environmental impact of products and services. However, the complexity and data-intensive nature of LCA pose significant challenges in scaling sustainable solutions.
+
+The AI4LCA Workshop 2024 aims to harness the power of artificial intelligence (AI) to streamline and enhance the LCA process. By bringing together leading experts in AI and LCA, this event will explore how cutting-edge AI techniques can be leveraged to address the grand challenges faced by LCA researchers and practitioners.
+
+The workshop's key objectives are to:
+- Identify the fastest pathways to decarbonization and how AI can simplify the LCA process to accelerate sustainable transformation.
+- Discuss the critical scaling challenges in LCA (e.g., data availability, interoperability) and outline concrete strategies for using AI to overcome these barriers.
+- Establish a shared understanding of LCA ground truth, performance metrics, and "good enough" standards to drive the adoption of AI-powered LCA solutions.
+- Foster collaboration and coordination on data exchange, benchmark datasets, and innovation-driving competitions in the AI-for-LCA domain.
+
+By facilitating meaningful dialogue and showcasing the latest advancements, the AI4LCA Workshop 2024 aspires to catalyze the widespread integration of AI into the LCA workflow, ultimately empowering organizations and policymakers to make more informed, data-driven decisions that accelerate the transition to a sustainable future."
 
 ## Date and Location
 **Date:** December 14, 2024  
@@ -34,12 +44,6 @@ Workshop is in-person only, there will be no virtual attendance option.
 
 
 4:30 - 5:00 PM: Closing Remarks and Next Steps
-
-## Key Topics
-- The fastest path to decarbonization and how AI can simplify the LCA process
-- Grand challenges in scaling LCA solutions, and how AI can help address them (e.g., "mapping" issues)
-- Definition of ground truth, performance metrics, and "good enough" LCA
-- Coordination on data exchange, benchmark datasets, and fostering innovation through competitions
 
 ## Registration
 Please fill out the [registration form](https://forms.gle/8oSBNVtqrfdx7soM8) by **Nov 15, 2024**. Registration is free. 
