@@ -11,7 +11,7 @@ The workshop's key objectives are to:
 - Establish a shared understanding of LCA ground truth, performance metrics, and "good enough" standards to drive the adoption of AI-powered LCA solutions.
 - Foster collaboration and coordination on data exchange, benchmark datasets, and innovation-driving competitions in the AI-for-LCA domain.
 
-By facilitating meaningful dialogue and showcasing the latest advancements, the AI4LCA Workshop 2024 aspires to catalyze the widespread integration of AI into the LCA workflow, ultimately empowering organizations and policymakers to make more informed, data-driven decisions that accelerate the transition to a sustainable future."
+By facilitating meaningful dialogue and showcasing the latest advancements, the AI4LCA Workshop 2024 aspires to catalyze the widespread integration of AI into the LCA workflow, ultimately empowering organizations and policymakers to make more informed, data-driven decisions that accelerate the transition to a sustainable future.
 
 ## Date and Location
 **Date:** December 14, 2024  
