@@ -2,17 +2,16 @@
 The workshop aims to bring together leading experts to explore the latest advancements in the application of artificial intelligence techniques to enhance and streamline the life cycle assessment process.
 
 # Agenda
-Date: December 14, 2024 </br>
-Location: University of British Columbia, Vancouver 
-Format:
+**Date**: December 14, 2024 <br>
+**Location**: University of British Columbia, Vancouver <br>
+**Format**:
 - Keynote
 - Talks
 - Panel discussion
 
 ## Topics
 - The fastest path to decarbonization, and how can we simplify LCA to get there.
-- The grand challenges that LCA researchers face in scaling solutions.
--- E.g., how can AI help address “mapping” issues?
+- The grand challenges that LCA researchers face in scaling solutions (e.g., how can AI help address “mapping” issues?)
 - Definition of ground truth, performance metrics, and “good enough”.
 - Coordination on data exchange (interoperability), benchmark datasets, and hosting of competitions to foster innovation.
 
