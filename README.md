@@ -40,5 +40,8 @@ The AI4LCA Workshop 2024 aims to bring together leading experts in artificial in
 - Definition of ground truth, performance metrics, and "good enough" LCA
 - Coordination on data exchange, benchmark datasets, and fostering innovation through competitions
 
+## Registration
+Please fill out the [registration form](https://forms.gle/8oSBNVtqrfdx7soM8) by **Nov 15, 2024**
+
 ## Contact
 For more information please contact [Qingshi Tu](mailto:qingshi.tu@ubc.ca).
