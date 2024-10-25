@@ -2,9 +2,9 @@
 The workshop aims to bring together leading experts to explore the latest advancements in the application of artificial intelligence techniques to enhance and streamline the life cycle assessment process.
 
 # Agenda
-Date: December 14, 2024
+Date: December 14, 2024 </br>
 Location: University of British Columbia, Vancouver 
-
+Format:
 - Keynote
 - Talks
 - Panel discussion
