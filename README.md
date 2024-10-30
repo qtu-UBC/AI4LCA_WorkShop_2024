@@ -21,7 +21,7 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 
 ## Date and Location
 **Date:** December 14, 2024  
-**Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/)), University of British Columbia, Vancouver, Canada
+**Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/), [map](https://www.maps.ubc.ca/?code=PCN)), University of British Columbia, Vancouver, Canada
 
 Workshop is in-person only, there will be no virtual attendance option.
 
