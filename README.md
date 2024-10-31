@@ -30,17 +30,17 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 ### Morning Session
 9:00 - 9:15 AM: Coffee social
 
-9:15 - 9:30 AM: Welcome and Opening Remarks
+9:15 - 9:45 AM: Welcome and Opening Remarks
 - Prof. Qingshi Tu, University of British Columbia
 
-9:30 - 10:00 AM: Keynote - LCA in Industry
+9:45 - 10:15 AM: Keynote - LCA in Industry
 - Lin Shi
 
-10:30 - 11:00 AM: Emission Factor Recommendation
+10:45 - 11:15 AM: Emission Factor Recommendation
 - Fahimeh Ebrahimi
 - Nina Domingo
 
-11:30 AM - 12:30 PM: Panel Discussion - LCA Quality
+11:45 AM - 12:45 PM: Panel Discussion - LCA Quality
 - Moderator: Ethan Roday
 
 ### Afternoon Session
