@@ -33,7 +33,7 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 9:15 - 9:45 AM: Welcome and Opening Remarks
 - Prof. Qingshi Tu, University of British Columbia
 
-9:45 - 10:15 AM: Keynote - LCA in Industry
+9:45 - 10:15 AM: LCA Practice in Industry
 - Lin Shi
 
 10:45 - 11:15 AM: Emission Factor Recommendation
