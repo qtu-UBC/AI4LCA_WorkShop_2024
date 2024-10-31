@@ -23,12 +23,14 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 **Date:** December 14, 2024  
 **Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/), [map](https://www.maps.ubc.ca/?code=PCN)), University of British Columbia, Vancouver, Canada
 
-Workshop is in-person only, there will be no virtual attendance option.
+Workshop is **in-person only**, there will be no virtual attendance option.
 
 ## Tentative Agenda
 
 ### Morning Session
-9:00 - 9:30 AM: Welcome and Opening Remarks
+9:00 - 9:15 AM: Coffee social
+
+9:15 - 9:30 AM: Welcome and Opening Remarks
 - Prof. Qingshi Tu, University of British Columbia
 
 9:30 - 10:00 AM: Keynote - LCA in Industry
