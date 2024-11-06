@@ -31,25 +31,38 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 9:00 - 9:15 AM: Coffee social
 
 9:15 - 9:45 AM: Welcome and Opening Remarks
-- Prof. Qingshi Tu, University of British Columbia
+- Qingshi Tu, University of British Columbia
 
 9:45 - 10:15 AM: LCA Practice in Industry
-- Lin Shi
+- Lin Shi, Amazon
 
 10:45 - 11:15 AM: Emission Factor Recommendation
-- Fahimeh Ebrahimi
-- Nina Domingo
+- Fahimeh Ebrahimi, Amazon
+- Nina Domingo, Amazon
 
 11:45 AM - 12:45 PM: Panel Discussion - LCA Quality
-- Moderator: Ethan Roday
+- Panelists
+  - Valerie Thomas, Georgia Tech
+  - Jeremie Hakian, Amazon
+  - Valentina Prado, Sphera
+- Moderator: Ethan Roday, Amazon
 
 ### Afternoon Session
 2:00 - 3:00 PM: Panel Discussion - LCA Data Availability
-- Moderator: Kellen Axten
+- Panelists
+   - Shaena Ulissi, Watershed
+   - Kai Lan, North Carolina State University
+   - Anran Wang, Amazon
+- Moderator: Kellen Axten, Amazon
 
 
 3:30 - 4:30 PM: Panel Discussion - Driving Decarbonization with LCA
-- Moderator: Bharathan Balaji
+- Panelists
+  - Thomas Kwan, Schneider Electric
+  - Prashant Shenoy, University of Massachussets at Amherst
+  - Bharathan Balaji, Amazon
+  - Qingshi Tu, University of British Columbia
+- Moderator: Andrew Dumit, Watershed
 
 
 4:30 - 5:00 PM: Closing Remarks and Next Steps
