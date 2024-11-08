@@ -58,7 +58,6 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 
 3:30 - 4:30 PM: Panel Discussion - Driving Decarbonization with LCA
 - Panelists
-  - Thomas Kwan, Schneider Electric
   - Prashant Shenoy, University of Massachussets at Amherst
   - Bharathan Balaji, Amazon
   - Qingshi Tu, University of British Columbia
