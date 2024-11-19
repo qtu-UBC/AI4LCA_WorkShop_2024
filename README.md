@@ -67,7 +67,7 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 4:30 - 5:00 PM: Closing Remarks and Next Steps
 
 ## Registration
-Please fill out the [registration form](https://forms.gle/8oSBNVtqrfdx7soM8) by **Nov 15, 2024**. Registration is free. 
+**Nov 15, 2024**. Registration is closed. 
 
 ## Contact
 For more information please contact [Qingshi Tu](mailto:qingshi.tu@ubc.ca).
