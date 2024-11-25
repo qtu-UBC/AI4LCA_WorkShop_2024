@@ -40,6 +40,8 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 - Fahimeh Ebrahimi, Amazon
 - Nina Domingo, Amazon
 
+11:15 - 11:45 AM: *Coffee break*
+
 11:45 AM - 12:45 PM: Panel Discussion - LCA Quality
 - Panelists
   - Valerie Thomas, Georgia Tech
@@ -55,6 +57,7 @@ Workshop is **in-person only**, there will be no virtual attendance option.
    - Anran Wang, Amazon
 - Moderator: Kellen Axten, Amazon
 
+3:00 - 3:30 PM: *Coffee break*
 
 3:30 - 4:30 PM: Panel Discussion - Driving Decarbonization with LCA
 - Panelists
