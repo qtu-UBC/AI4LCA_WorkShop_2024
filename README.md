@@ -61,8 +61,9 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 
 3:30 - 4:30 PM: Panel Discussion - Driving Decarbonization with LCA
 - Panelists
-  - Prashant Shenoy, University of Massachussets at Amherst
-  - Bharathan Balaji, Amazon
+  - Prashant Shenoy, University of Massachusetts at Amherst
+  - Bichlien Nguyen, Microsoft
+  - Miguel F. García Claro, Bombardier
   - Qingshi Tu, University of British Columbia
 - Moderator: Andrew Dumit, Watershed
 
