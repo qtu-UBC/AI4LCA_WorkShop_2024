@@ -47,6 +47,7 @@ Workshop is **in-person only**, there will be no virtual attendance option.
   - Valerie Thomas, Georgia Tech
   - Jeremie Hakian, Amazon
   - Valentina Prado, Sphera
+  - Harris Chalat, Muir.ai
 - Moderator: Ethan Roday, Amazon
 
 ### Afternoon Session
