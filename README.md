@@ -21,9 +21,10 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 
 ## Date and Location
 **Date:** December 14, 2024  
-**Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/), [map](https://www.maps.ubc.ca/?code=PCN)), University of British Columbia, Vancouver, Canada
+**Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/), [map](https://www.maps.ubc.ca/?code=PCN)), University of British Columbia, Vancouver, Canada <br>
+**Parking:** Closest location is UBC West Parkadge (2140 Lower Mall, Vancouver, BC V6T 1Z2), and the rate is $2.00 for 1/2 hr - Max $10 23:59 for weekends. For more information related to parking at UBC, please refer to: https://parking.ubc.ca/map
 
-Workshop is **in-person only**, there will be no virtual attendance option.
+The workshop is **in-person only**; there will be no virtual attendance option.
 
 ## Tentative Agenda
 
@@ -70,6 +71,9 @@ Workshop is **in-person only**, there will be no virtual attendance option.
 
 
 4:30 - 5:00 PM: Closing Remarks and Next Steps
+
+### Happy Hour
+5:30 - 8:00 PM at [Browns Crafthouse UBC](https://www.brownscrafthouse.com/)
 
 ## Registration
 **Nov 15, 2024**. Registration is closed. 
