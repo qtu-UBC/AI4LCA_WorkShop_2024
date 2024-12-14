@@ -22,7 +22,7 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 ## Date and Location
 **Date:** December 14, 2024  
 **Location:** Ponderosa Ballroom ([venue photo](https://hostatubc.com/venues/ponderosa-ballroom/), [map](https://www.maps.ubc.ca/?code=PCN)), University of British Columbia, Vancouver, Canada <br>
-**Parking:** Closest location is UBC West Parkadge (2140 Lower Mall, Vancouver, BC V6T 1Z2), and the rate is $2.00 for 1/2 hr - Max $10 23:59 for weekends. For more information related to parking at UBC, please refer to: https://parking.ubc.ca/map
+**Parking:** Closest location is UBC West Parkade (2140 Lower Mall, Vancouver, BC V6T 1Z2), and the rate is $2.00 for 1/2 hr - Max $10 23:59 for weekends. For more information related to parking at UBC, please refer to: https://parking.ubc.ca/map
 
 The workshop is **in-person only**; there will be no virtual attendance option.
 
@@ -78,5 +78,5 @@ The workshop is **in-person only**; there will be no virtual attendance option.
 ## Registration
 **Nov 15, 2024**. Registration is closed. 
 
-## Contact
-For more information please contact [Qingshi Tu](mailto:qingshi.tu@ubc.ca).
+## Organization
+[Qingshi Tu](https://forestry.ubc.ca/faculty-profile/qingshi-tu/) and [Bharathan Balaji](https://www.linkedin.com/in/bharathanbalaji/)
