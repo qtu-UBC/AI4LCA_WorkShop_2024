@@ -55,7 +55,7 @@ The workshop is **in-person only**; there will be no virtual attendance option.
 2:00 - 3:00 PM: Panel Discussion - LCA Data Availability
 - Panelists
    - Shaena Ulissi, Watershed
-   - Yuvraj Agarwal,Carnegie Mellon University
+   - Yuvraj Agarwal, Carnegie Mellon University
    - Anran Wang, Amazon
 - Moderator: Kellen Axten, Amazon
 
