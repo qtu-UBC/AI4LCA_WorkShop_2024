@@ -72,7 +72,7 @@ The workshop is **in-person only**; there will be no virtual attendance option.
 
 4:30 - 5:00 PM: Closing Remarks and Next Steps
 
-### Happy Hour (self-organized)
+### Happy Hour
 5:30 - 8:00 PM at [Browns Crafthouse UBC](https://www.brownscrafthouse.com/)
 
 ## Registration
