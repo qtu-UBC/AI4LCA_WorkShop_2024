@@ -26,7 +26,7 @@ By facilitating meaningful dialogue and showcasing the latest advancements, the 
 
 The workshop is **in-person only**; there will be no virtual attendance option.
 
-## Tentative Agenda
+## Agenda
 
 ### Morning Session
 9:00 - 9:15 AM: Coffee social
