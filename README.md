@@ -59,13 +59,13 @@ The workshop underscored the need for a collaborative effort between academia, i
 -   Create a community that co-evolves scientific breakthrough (e.g., new algorithm for generating data) with industrial pilot-testing (e.g., to provide real world benchmark data)
 
 ### Additional resources
-- 🤖 Applications of AI in streamlining the LCA modeling: https://lnkd.in/gtwze-6N [Recording]
-- 🔢 Data, Algorithm, Tools for LCA: Challenges, Opportunities, and Consensus of LCA Data: https://lnkd.in/g8aWdbAJ [Recording]
-- 🛠 Next-Gen LCA Tools: Unveiling the Latest Developments and Solutions: https://lnkd.in/ggXBPdxY [Recording]
+- 🤖 [Applications of AI in streamlining the LCA modeling](https://lnkd.in/gtwze-6N) [Recording]
+- 🔢 [Data, Algorithm, Tools for LCA: Challenges, Opportunities, and Consensus of LCA Data](https://lnkd.in/g8aWdbAJ) [Recording]
+- 🛠 [Next-Gen LCA Tools: Unveiling the Latest Developments and Solutions](https://lnkd.in/ggXBPdxY) [Recording]
 
 ### Future events
 - [1-4 July 2025] 12th International Conference on Industrial Ecology: https://isie2025.sg/. Featuring Special Session(s) on AI, Data and Tools. Abstract submission deadline: Dec.31, 2024
-- [16-18 June 2025] International Symposium on Sustainable Systems and Technology (ISSST) 2025 Conference: https://isie2025.sg/. Featuring Theme "Innovative Tools and Methods in LCA and Sustainability Analysis". Abstract submission deadline: Jan.17, 2025
+- [16-18 June 2025] International Symposium on Sustainable Systems and Technology (ISSST) 2025 Conference: (https://issst.net/). Featuring Theme "Innovative Tools and Methods in LCA and Sustainability Analysis". Abstract submission deadline: Jan.17, 2025
 
 
 -----------
