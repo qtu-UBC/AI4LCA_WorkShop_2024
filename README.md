@@ -1,7 +1,7 @@
 # AI4LCA Workshop 2024: Accelerating Sustainability Through AI-Powered Life Cycle Assessment
 
 ## TL'DR
-The workshop underscored the need for a collaborative effort between academia, industry, and policymakers to address data scarcity, develop robust benchmarking methods, and ultimately leverage LCA to drive meaningful decarbonization across diverse sectors. The integration of AI is essential to scale LCA, but also to maintain human-centered verification and avoid biased outputs.
+The workshop underscored the need for a collaborative effort between academia, industry, and policymakers to address data scarcity, develop robust benchmarking methods, and ultimately leverage LCA to drive meaningful decarbonization across diverse sectors. The integration of AI is essential to scale LCA and maintain human-centered verification and avoid biased outputs.
 
 ## Key Themes & Insights
 ### LCA in Practice: Challenges and Opportunities
@@ -12,7 +12,7 @@ The workshop underscored the need for a collaborative effort between academia, i
 ### Emission Factor Recommendation
 - EF Selection Bottleneck: The manual selection of emission factors is time-consuming, requires expertise, and is prone to inconsistencies.
 - "Parakeet": An algorithm using embeddings and LLMs was proposed for automated EF selection. It includes a retrieval stage (identifying semantically similar EFs) and a generation component (LLM recommendation with justification).
-  - Article
+  - [Article](https://www.amazon.science/publications/parakeet-emission-factor-recommendation-for-carbon-footprinting-with-generative-ai)
 - Performance: "Parakeet" achieved a precision@1 of 92% for spend-based EFs and 72-74% for process-based EFs in initial benchmarking.
 - Challenges: Errors included misinterpretations of text, failing to identify when "no match" is appropriate, and annotation errors. This highlights the need for continued improvement and human oversight. 
 
@@ -33,9 +33,9 @@ The workshop underscored the need for a collaborative effort between academia, i
 - Scattered & Unstructured Data: Data is often scattered, unstructured, and not easily comparable. Different LCAs may include or exclude specific factors, making direct comparisons challenging. 
 - Schema Development: Creating metadata schemas for specific domains (e.g., buildings) is a potential solution to facilitate data sharing and interoperability. 
   - Relevant information
-    - “Elementary flow mapping across life cycle inventory data systems: A case study for data interoperability under the Global Life Cycle Assessment Data Access (GLAD) initiative”
-    - “A Shared Semantic Vocabulary as a Path Forward for Harmonized Inventory Data”
-    - “The Data Liberation Toolkit - An Open Source Set of Tools for Harmonization and Maintenance”
+    - [“Elementary flow mapping across life cycle inventory data systems: A case study for data interoperability under the Global Life Cycle Assessment Data Access (GLAD) initiative”](https://link.springer.com/article/10.1007/s11367-024-02286-x)
+    - [“A Shared Semantic Vocabulary as a Path Forward for Harmonized Inventory Data”](https://zenodo.org/records/14196000)
+    - [“The Data Liberation Toolkit - An Open Source Set of Tools for Harmonization and Maintenance”](https://zenodo.org/records/14197043)
 - Supplier Data Issues: Data from suppliers often arrives as spreadsheets with manual errors, requiring extensive processing. Also, there is a struggle to get the right attributes for carbon predictions from suppliers.
 - Proprietary Data: Proprietary data poses a challenge to open access and the development of shared benchmarks.
 - Need for Benchmarking: Access to vetted data is crucial for developing and comparing different LCA methodologies. "If we are to come up with the right methods, we need access to the data that has been vetted. Then we start comparing against the same data."
