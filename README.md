@@ -1,6 +1,7 @@
 # AI4LCA Workshop 2024: Accelerating Sustainability Through AI-Powered Life Cycle Assessment
 
-## TL'DR
+![group photo](https://grouptu.sites.olt.ubc.ca/files/2024/12/IMG_9263-scaled.jpg)
+## *TL'DR*
 The workshop underscored the need for a collaborative effort between academia, industry, and policymakers to address data scarcity, develop robust benchmarking methods, and ultimately leverage LCA to drive meaningful decarbonization across diverse sectors. The integration of AI is essential to scale LCA and maintain human-centered verification and avoid biased outputs.
 
 ## Key Themes & Insights
